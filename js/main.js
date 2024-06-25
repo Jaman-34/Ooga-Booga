@@ -1,5 +1,5 @@
 $( document ).ready(function() {
     $('#btn').click(function() {
-        window.alert("yuh");
+        window.alert("wenamechaoindasuma");
     });
 });
